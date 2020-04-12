@@ -1,0 +1,10 @@
+21/JAN/2020
+* Corrected some typos
+
+19/JAN/2020
+* Initial commit
+* Completed the README.md
+
+
+TODO:
+  * Generate a electrical schema to be able to be printed and etched easily.
