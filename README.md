@@ -21,4 +21,4 @@ The status led flashes as to indicate the number of the sensor that is failing. 
 ### Troubleshooting
 If the sensors do no light up correctly, try adjusting the sensitiveness through the screw located under the back cover of each sensor. The adjustment process is a bit finicky, but once it is correctly adjusted, everything works flawlessly.
 
-&copy; **D.Sánchez 20019** Published under the **EUPL v1.2**
+&copy; **D.Sánchez 2019** Published under the **EUPL v1.2**
